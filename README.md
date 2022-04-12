@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonioreign
 - 👀 I’m interested in Front-End Dev, then will learn Back-End Dev.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React Hello Tonio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, tonioreign@gmail.com
 
